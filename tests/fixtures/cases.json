@@ -1,0 +1,102 @@
+[
+  {
+    "name": "stored",
+    "valid": true
+  },
+  {
+    "name": "fixed",
+    "valid": true
+  },
+  {
+    "name": "dynamic",
+    "valid": true
+  },
+  {
+    "name": "empty",
+    "valid": true
+  },
+  {
+    "name": "binary",
+    "valid": true
+  },
+  {
+    "name": "random",
+    "valid": true
+  },
+  {
+    "name": "multi-block",
+    "valid": true
+  },
+  {
+    "name": "optional-fields",
+    "valid": true
+  },
+  {
+    "name": "header-crc-field",
+    "valid": true
+  },
+  {
+    "name": "too-short",
+    "valid": false
+  },
+  {
+    "name": "bad-magic",
+    "valid": false
+  },
+  {
+    "name": "bad-method",
+    "valid": false
+  },
+  {
+    "name": "reserved-flags",
+    "valid": false
+  },
+  {
+    "name": "bad-payload-crc",
+    "valid": false
+  },
+  {
+    "name": "size-too-small",
+    "valid": false
+  },
+  {
+    "name": "size-too-large",
+    "valid": false
+  },
+  {
+    "name": "output-limit",
+    "valid": false
+  },
+  {
+    "name": "truncated-deflate",
+    "valid": false
+  },
+  {
+    "name": "unterminated-name",
+    "valid": false
+  },
+  {
+    "name": "overlapping-extra",
+    "valid": false
+  },
+  {
+    "name": "reserved-block",
+    "valid": false
+  },
+  {
+    "name": "bad-stored-length",
+    "valid": false
+  },
+  {
+    "name": "concatenated-members",
+    "valid": false
+  },
+  {
+    "name": "trailing-deflate-bytes",
+    "valid": false
+  },
+  {
+    "name": "oversubscribed-tree",
+    "valid": false
+  }
+]
